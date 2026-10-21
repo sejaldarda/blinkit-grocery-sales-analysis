@@ -87,13 +87,3 @@ Power BI Desktop is required to open and interact with the `.pbix` file. A scree
 - Correlation or differences in the visuals should not automatically be interpreted as causation.
 - Numerical business insights should be checked against the final dashboard before publication.
 
-## Author
-
-**[Your Name]**
-
-- GitHub: [Your GitHub profile URL]
-- LinkedIn: [Your LinkedIn profile URL]
-
----
-
-*This project is part of my Data Analytics portfolio.*
