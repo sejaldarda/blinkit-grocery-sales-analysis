@@ -87,13 +87,4 @@ Power BI Desktop is required to open and interact with the `.pbix` file.
 - Audio-feature comparisons are exploratory and do not demonstrate causation.
 - Dashboard metrics may differ from the raw dataset if rows were removed, transformed, or filtered.
 
-## Author
 
-**[Your Name]**
-
-- GitHub: [Your GitHub profile URL]
-- LinkedIn: [Your LinkedIn profile URL]
-
----
-
-*This project is part of my Data Analytics portfolio.*
